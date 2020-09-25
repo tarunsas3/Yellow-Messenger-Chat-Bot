@@ -1,5 +1,7 @@
 # Yellow-Messenger-Chat-Bot
 
+# both the google assistant trial version and firebase have same gmail id so you can login yourself and test also if you want.
+
 Steps
 
 you invoke the bot by saying "talk to the yoyo pizza bot"
