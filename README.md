@@ -1,6 +1,6 @@
 # Yellow-Messenger-Chat-Bot
 # Steps to invoke the Chat bot
-you can invoke the chat bot by saying/typing\ 
+you can invoke the chat bot by saying/typing\
 Talk to Yo\
 Hello Yo\
 Call Yo\
