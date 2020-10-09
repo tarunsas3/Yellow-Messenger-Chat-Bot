@@ -5,7 +5,7 @@ Talk to Yo\
 Hello Yo\
 Call Yo\
 Invoke Yo\
-Yo\
+Yo
 # The bot will ask you the following questions  and these are the choices
 OPTIONS\
 a)order pizza , track order\
@@ -29,14 +29,14 @@ LOCATION\
 a) " your own location "\
 MODE OF TRANSPORT\
 a) delivery, carryout, pick up\
-The bot will then summarize your order\
-# The payment information will be under track order section\
+The bot will then summarize your order
+# The payment information will be under track order section
 In the track order section the bot will ask your name and phone number tell the details and bot will reply with order status and amount to be paid
 The order status and order total will be manipulated by the pizza admins as they will update the value in firebase and when the user is tracking that value will be updated.\
  
-# Technologies Used\
+# Technologies Used
 Dialog Flow\
-Firebase \
+Firebase
  
-# Limitations\
-The only limitation in the chatbot is that only one order at a time can be processed and stored in the database.\
+# Limitations
+The only limitation in the chatbot is that only one order at a time can be processed and stored in the database.
