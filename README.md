@@ -32,7 +32,7 @@ a) delivery, carryout, pick up\
 The bot will then summarize your order
 # The payment information will be under track order section
 In the track order section the bot will ask your name and phone number tell the details and bot will reply with order status and amount to be paid
-The order status and order total will be manipulated by the pizza admins as they will update the value in firebase and when the user is tracking that value will be updated.\
+The order status and order total will be manipulated by the pizza admins as they will update the value in firebase and when the user is tracking that value will be updated.
  
 # Technologies Used
 Dialog Flow\
