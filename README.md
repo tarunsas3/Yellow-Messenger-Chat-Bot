@@ -9,25 +9,25 @@ Yo
 ## The bot will ask you the following questions  and these are the choices
 ### OPTIONS
 a)order pizza , track order\
-#### TYPE
+### TYPE
 a)vegetarian , non vegetarian\
-#### AVAILABLE PIZZA
+### AVAILABLE PIZZA
 a)veg : vegana, margherita, double cheese, farm house, deluxe veggie non veg : pepperoni, barbecue, chicken, tikka, grilled\
-#### AVAILABLE SIZES
+### AVAILABLE SIZES
 a) small , medium, regular, large, extra large\
-#### CRUST
+### CRUST
 a)regular, normal, wheat thin crust, classic hand tossed, cheese burst, italian crust\
-#### TOPPING
+### TOPPING
 a)oregano, black olives, tomatoes, extra cheese, onions, default, peppers\
-#### QUANTITY
+### QUANTITY
 a) 1 2 3 4 ....\
-#### NAME
+### NAME
 a) "your own name "\
-#### CONTACT NUMBER
+### CONTACT NUMBER
 a) "your own contact number"\
-#### LOCATION
+### LOCATION
 a) " your own location "\
-#### MODE OF TRANSPORT
+### MODE OF TRANSPORT
 a) delivery, carryout, pick up\
 The bot will then summarize your order
 ## The payment information will be under track order section
